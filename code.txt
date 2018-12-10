@@ -1,1 +1,2 @@
 Some text file for test purposes
+Changes
